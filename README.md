@@ -70,21 +70,3 @@ More projects, and the full story, on **[rohanvijaykumar.cv](https://rohanvijayk
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEV4Y2VsPC90aXRsZT48cGF0aCBkPSJNMjMgMS41cS40MSAwIC43LjMuMy4yOS4zLjd2MTlxMCAuNDEtLjMuNy0uMjkuMy0uNy4zSDdxLS40MSAwLS43LS4zLS4zLS4yOS0uMy0uN1YxOEgxcS0uNDEgMC0uNy0uMy0uMy0uMjktLjMtLjdWN3EwLS40MS4zLS43US41OCA2IDEgNmg1VjIuNXEwLS40MS4zLS43LjI5LS4zLjctLjN6TTYgMTMuMjhsMS40MiAyLjY2aDIuMTRsLTIuMzgtMy44NyAyLjM0LTMuOEg3LjQ2bC0xLjMgMi40LS4wNS4wOC0uMDQuMDktLjY0LTEuMjgtLjY2LTEuMjlIMi41OWwyLjI3IDMuODItMi40OCAzLjg1aDIuMTZ6TTE0LjI1IDIxdi0zSDcuNXYzem0wLTQuNXYtMy43NUgxMnYzLjc1em0wLTUuMjVWNy41SDEydjMuNzV6bTAtNS4yNVYzSDcuNXYzem04LjI1IDE1di0zaC02Ljc1djN6bTAtNC41di0zLjc1aC02Ljc1djMuNzV6bTAtNS4yNVY3LjVoLTYuNzV2My43NXptMC01LjI1VjNoLTYuNzV2M1oiLz48L3N2Zz4%3D)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
----
-
-### Experience
-
-| | Role | Dates |
-| --- | --- | --- |
-| **Mercor** | Generalist Expert, AI Evaluation | Aug 2026 – Present |
-| **Humanitarians AI** | Project Manager, Lyrical Literacy *(volunteer)* | Aug 2026 – Present |
-| **Northeastern University Recording Studios** | Operations Coordinator | Oct 2024 – Jun 2026 |
-| **IpserLab LLC** | Product Management Intern | Jan 2026 – Apr 2026 |
-| **Deluxe Media Inc.** | QC Project Coordinator, Fulfillment | Jun 2021 – Aug 2024 |
-
-### Education
-
-| | Degree | Year |
-| --- | --- | --- |
-| **Northeastern University** | MS Project Management, Data Analytics concentration · GPA 3.8 | 2026 |
-| **CMR University** | B.Sc. Audio Engineering · GPA 3.6 | 2020 |
