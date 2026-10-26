@@ -45,8 +45,8 @@ Also: **[WealthTrack](https://wealthtrack-demo.vercel.app/)**, an AI-powered per
 <sub>Updated automatically every week from my public repos.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img src="assets/tools-light.svg" alt="Toolkit in four groups. Project and product: Jira, Confluence, MS Project, monday.com, Smartsheet, Asana, Trello, Airtable, Notion, Figma, Slack, Teams, SharePoint, Google Workspace, PowerPoint, Word. AI and building: Claude Code, Claude, Codex, Cursor, Google Antigravity, Hermes Agent, MCP, Copilot, Gemini, Midjourney, Higgsfield, Suno, Playwright, Git, GitHub, React, TypeScript, Tailwind CSS. Data and analytics: SQL, Python, R, Excel, Tableau, Power BI, Google Sheets, Google Analytics. Creative and media: Pro Tools, Logic Pro, Ableton Live, Reaper, FL Studio, Premiere Pro, Final Cut Pro, DaVinci Resolve, Photoshop, Canva." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <img src="assets/toolkit-light.svg" alt="Toolkit in four groups. Project and product: Jira, Confluence, MS Project, monday.com, Smartsheet, Asana, Trello, Airtable, Notion, Figma, Slack, Teams, SharePoint, Google Workspace, PowerPoint, Word. AI and building: Claude Code, Claude, Codex, Cursor, Google Antigravity, Hermes Agent, MCP, Copilot, Gemini, Midjourney, Higgsfield, Suno, Playwright, Git, GitHub, React, TypeScript, Tailwind CSS. Data and analytics: SQL, Python, R, Excel, Tableau, Power BI, Google Sheets, Google Analytics. Creative and media: Pro Tools, Logic Pro, Ableton Live, Reaper, FL Studio, Premiere Pro, Final Cut Pro, DaVinci Resolve, Photoshop, Canva." width="100%">
 </picture>
 
 <a href="https://rohanvijaykumar.cv">
