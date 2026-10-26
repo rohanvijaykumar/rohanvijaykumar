@@ -17,8 +17,6 @@
   <img src="assets/now-playing-light.svg" alt="Now playing: building Mez, PM at Humanitarians AI, open to project, program and operations roles." width="100%">
 </picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="545 commits shipped on Mez, directing AI coding agents. 250+ film and TV titles delivered at Deluxe. 300+ sessions a year run through the studio I managed. 2nd place, Berklee Music Tech Hackathon, with Chop." width="100%"></picture>
-
 ### About
 
 With expertise in media and entertainment, AI, software and audio industries, I take messy, multi-team work from plan to delivery, and I build AI products along the way.
