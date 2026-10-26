@@ -1,7 +1,9 @@
 <a href="https://rohanvijaykumar.cv">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Rohan Vijaykumar: Project & Operations Manager, builds with AI. Open to project, program and operations roles." width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/intro-m-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/intro-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
+  <img src="assets/intro-light.svg" alt="Rohan Vijaykumar: Project & Operations Manager, builds with AI. Open to project, program and operations roles." width="100%">
 </picture>
 </a>
 
@@ -13,8 +15,10 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/now-playing-dark.svg">
-  <img src="assets/now-playing-light.svg" alt="Now playing: building Mez, PM at Humanitarians AI, open to project, program and operations roles." width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/playing-m-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/playing-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/playing-dark.svg">
+  <img src="assets/playing-light.svg" alt="Now playing: building Mez, PM at Humanitarians AI, open to project, program and operations roles." width="100%">
 </picture>
 
 ### About
@@ -26,9 +30,9 @@ I spent three years at Deluxe Media steering 250+ film and TV titles through QC,
 ### Selected work
 
 <p align="center">
-  <a href="https://rohanvijaykumar.cv/projects/mez"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mez-dark.svg"><img src="assets/card-mez-light.svg" alt="Mez, private beta: a home for your Hermes agent." width="32%"></picture></a>
-  <a href="https://github.com/rohanvijaykumar/paperwing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-paperwing-dark.svg"><img src="assets/card-paperwing-light.svg" alt="Paperwing, v1.2, open source: the free, open-source Acrobat alternative." width="32%"></picture></a>
-  <a href="https://rohanvijaykumar.cv/projects/chop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-chop-dark.svg"><img src="assets/card-chop-light.svg" alt="Chop, 2nd place at Berklee: describe a sound, then find it or generate it." width="32%"></picture></a>
+  <a href="https://rohanvijaykumar.cv/projects/mez"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-mez-dark.svg"><img src="assets/work-mez-light.svg" alt="Mez, private beta: a home for your Hermes agent." width="260"></picture></a>
+  <a href="https://github.com/rohanvijaykumar/paperwing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-paperwing-dark.svg"><img src="assets/work-paperwing-light.svg" alt="Paperwing, v1.2, open source: the free, open-source Acrobat alternative." width="260"></picture></a>
+  <a href="https://rohanvijaykumar.cv/projects/chop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-chop-dark.svg"><img src="assets/work-chop-light.svg" alt="Chop, 2nd place at Berklee: describe a sound, then find it or generate it." width="260"></picture></a>
 </p>
 
 Also: **[WealthTrack](https://wealthtrack-demo.vercel.app/)**, an AI-powered personal finance dashboard. Case studies for all of them, and more, at **[rohanvijaykumar.cv](https://rohanvijaykumar.cv/projects)**.
@@ -45,13 +49,17 @@ Also: **[WealthTrack](https://wealthtrack-demo.vercel.app/)**, an AI-powered per
 <sub>Updated automatically every week from my public repos.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Toolkit in four groups. Project and product: Jira, Confluence, MS Project, monday.com, Smartsheet, Asana, Trello, Airtable, Notion, Figma, Slack, Teams, SharePoint, Google Workspace, PowerPoint, Word. AI and building: Claude Code, Claude, Codex, Cursor, Google Antigravity, Hermes Agent, MCP, Copilot, Gemini, Midjourney, Higgsfield, Suno, Playwright, Git, GitHub, React, TypeScript, Tailwind CSS. Data and analytics: SQL, Python, R, Excel, Tableau, Power BI, Google Sheets, Google Analytics. Creative and media: Pro Tools, Logic Pro, Ableton Live, Reaper, FL Studio, Premiere Pro, Final Cut Pro, DaVinci Resolve, Photoshop, Canva." width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/skillset-m-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/skillset-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skillset-dark.svg">
+  <img src="assets/skillset-light.svg" alt="Toolkit in four groups. Project and product: Jira, Confluence, MS Project, monday.com, Smartsheet, Asana, Trello, Airtable, Notion, Figma, Slack, Teams, SharePoint, Google Workspace, PowerPoint, Word. AI and building: Claude Code, Claude, Codex, Cursor, Google Antigravity, Hermes Agent, MCP, Copilot, Gemini, Midjourney, Higgsfield, Suno, Playwright, Git, GitHub, React, TypeScript, Tailwind CSS. Data and analytics: SQL, Python, R, Excel, Tableau, Power BI, Google Sheets, Google Analytics. Creative and media: Pro Tools, Logic Pro, Ableton Live, Reaper, FL Studio, Premiere Pro, Final Cut Pro, DaVinci Resolve, Photoshop, Canva." width="100%">
 </picture>
 
 <a href="https://rohanvijaykumar.cv">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cat-dark.svg">
-  <img src="assets/cat-light.svg" alt="A small cat walks over to rohanvijaykumar.cv" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/kitty-m-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/kitty-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/kitty-dark.svg">
+  <img src="assets/kitty-light.svg" alt="A small cat walks over to rohanvijaykumar.cv" width="100%">
 </picture>
 </a>
