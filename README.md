@@ -37,17 +37,6 @@ I spent three years at Deluxe Media steering 250+ film and TV titles through QC,
 
 Also: **[WealthTrack](https://wealthtrack-demo.vercel.app/)**, an AI-powered personal finance dashboard. Case studies for all of them, and more, at **[rohanvijaykumar.cv](https://rohanvijaykumar.cv/projects)**.
 
-### Recently shipped
-
-<!-- SHIPPED:START -->
-- **[Paperwing v1.2.1](https://github.com/rohanvijaykumar/paperwing/releases/tag/v1.2.1)** · released Oct 20, 2026
-- **[Paperwing v1.2.0](https://github.com/rohanvijaykumar/paperwing/releases/tag/v1.2.0)** · released Oct 19, 2026
-- **[Paperwing v1.1.0](https://github.com/rohanvijaykumar/paperwing/releases/tag/v1.1.0)** · released Oct 15, 2026
-- **[Paperwing v1.0.1](https://github.com/rohanvijaykumar/paperwing/releases/tag/v1.0.1)** · released Oct 12, 2026
-<!-- SHIPPED:END -->
-
-<sub>Updated automatically every week from my public repos.</sub>
-
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/skillset-m-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/skillset-m-light.svg">
