@@ -37,6 +37,7 @@ I spent three years at Deluxe Media steering 250+ film and TV titles through QC,
 
 Also: **[WealthTrack](https://wealthtrack-demo.vercel.app/)**, an AI-powered personal finance dashboard. Case studies for all of them, and more, at **[rohanvijaykumar.cv](https://rohanvijaykumar.cv/projects)**.
 
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/skillset-m-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/skillset-m-light.svg">
